@@ -1,0 +1,30 @@
+# Ignore data and large files
+data/
+*.zip
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+*.parquet
+*.npy
+*.faiss
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore Colab-specific
+*.json
