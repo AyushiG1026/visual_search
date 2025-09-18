@@ -1,0 +1,13 @@
+{
+  "project_root": "/content/drive/MyDrive/project_visual_search",
+  "manifest_path": "/content/drive/MyDrive/project_visual_search/test/tiles_manifest_full_fixed.parquet",
+  "stage3_dir": "/content/drive/MyDrive/project_visual_search/stage3",
+  "shards_dir": "/content/drive/MyDrive/project_visual_search/stage3/features_shards",
+  "total_tiles": 12058,
+  "batch_size": 16,
+  "shard_size_tiles": 1000,
+  "embed_dim": 512,
+  "pool_feat_dim": 2048,
+  "gpu_available": true,
+  "estimated_shards": 13
+}

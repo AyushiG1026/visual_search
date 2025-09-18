@@ -1,0 +1,10 @@
+{
+  "index_type": "IndexHNSWFlat",
+  "M": 32,
+  "efConstruction": 200,
+  "efSearch": 128,
+  "num_shards": 13,
+  "N_vectors": 12058,
+  "D": 512,
+  "created_at": "Wed Sep 17 14:29:37 2025"
+}
